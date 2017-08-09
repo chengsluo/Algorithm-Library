@@ -1,7 +1,11 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
-.vscode/
+.vscode/*
+*.idea/*
+*.vscode/*
+*target/*
+cmake-build-debug/
 # Folder config file
 Desktop.ini
 

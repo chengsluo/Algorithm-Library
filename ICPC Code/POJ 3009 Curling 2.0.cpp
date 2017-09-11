@@ -53,7 +53,7 @@ int main()
                             }
                      }
               }
-              ans=11;
+              ans=11;//题意
               dfs(a,b,0);
               if(ans==11){ans=-1;}
               cout<<ans<<endl;

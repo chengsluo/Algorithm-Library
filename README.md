@@ -1,4 +1,3 @@
-=======
 # algorithm-library
 
 Personal algorithmic prototypes and problem solution!

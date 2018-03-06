@@ -5,6 +5,8 @@ ehthumbs.db
 *.idea/*
 *.vscode/*
 *target/*
+a.out
+output.txt
 cmake-build-debug/
 # Folder config file
 Desktop.ini
